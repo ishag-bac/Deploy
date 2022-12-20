@@ -22,5 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-If face Heroku Issue: ActionView::Template::Error (The asset "tailwind.css" is not present in the asset pipeline.") run the bellow command 
+If face Heroku Issue: ActionView::Template::Error (The asset "tailwind.css" is not present in the asset pipeline.") run the command 
            bundle exec rake assets:precompile
